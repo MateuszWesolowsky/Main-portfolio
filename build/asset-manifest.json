@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0ce534ad.css",
+    "main.js": "/static/js/main.c7ad2219.js",
+    "static/media/projects-page.svg": "/static/media/projects-page.a288ad051245dde972b95af641c0190d.svg",
+    "static/media/about-me-page.svg": "/static/media/about-me-page.de79a72938ed30948f5289360b9f8b19.svg",
+    "static/media/main-project-1.jpg": "/static/media/main-project-1.8da1b534940f7b0a5abc.jpg",
+    "static/media/home-page.svg": "/static/media/home-page.3d99bbe3e9e69e026163d1257c19de1c.svg",
+    "static/media/secondary-project-1.jpg": "/static/media/secondary-project-1.55b30cd02dc5cddfcfb1.jpg",
+    "static/media/main-project-2.jpg": "/static/media/main-project-2.d1701b50bd4ace207c5a.jpg",
+    "static/media/secondary-project-2.jpg": "/static/media/secondary-project-2.89f0ff36f4861d76deb0.jpg",
+    "static/media/about-illustration.svg": "/static/media/about-illustration.71feca1f6210ad9210ca9ecccabd0ad3.svg",
+    "static/media/contact-page.svg": "/static/media/contact-page.bb6dd0d5c4b36d67c1d4383d9a597201.svg",
+    "static/media/contact-illustration.svg": "/static/media/contact-illustration.309107b7faed5e5dd0680a8772fd9feb.svg",
+    "static/media/hero-illustration.svg": "/static/media/hero-illustration.70b54107e0c76f2b14efa9e9fc862fd9.svg",
+    "static/media/git.svg": "/static/media/git.d578cd65441104998a588fa727010b15.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.7b88a8a6a0b2951c61c4a8b341091a18.svg",
+    "static/media/linkedinIcon.svg": "/static/media/linkedinIcon.f561b131bc391bee43a3d1b15fc200b2.svg",
+    "index.html": "/index.html",
+    "static/media/download-btn-icon.svg": "/static/media/download-btn-icon.db00ff1fa6f1d172b12f9e1441c6d79c.svg",
+    "static/media/facebook-icon.svg": "/static/media/facebook-icon.014da167b78be7d792a3e909edab6b5c.svg",
+    "main.0ce534ad.css.map": "/static/css/main.0ce534ad.css.map",
+    "main.c7ad2219.js.map": "/static/js/main.c7ad2219.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ce534ad.css",
+    "static/js/main.c7ad2219.js"
+  ]
+}
