@@ -13,7 +13,7 @@ module.exports = {
         hoverPrimary: "#292d33",
         divider: "rgba(238, 238, 238, 0.10)",
         icons: "#393E46",
-        overlay: "rgba(0, 0, 0, 0.25)",
+        overlay: "rgba(0, 0, 0, 0.25)", 
       },
       screens: {
         xs: "420px",
