@@ -13,11 +13,11 @@ const TopMessage = ({
 	onHide,
 	children,
 }: Props) => {
-	const [hidden, sethidden] = useState(false);
+	const [hidden, setHidden] = useState(false);
 
 	useEffect(() => {
 		const transitionDelay = setTimeout(() => {
-			sethidden(true);
+			setHidden(true);
 		}, duration);
 		const hide = setTimeout(() => {
 			onHide();
