@@ -60,7 +60,7 @@ const Hero = () => {
 						<Link to='contact' smooth>
 							<Button secondary>Hire me</Button>
 						</Link>
-						<a href='https://store5.gofile.io/download/7e113318-026f-4ef2-88bf-d6cbbfb9de21/Mateusz%20Wesolowski%20Resume.pdf'>
+						<a href='https://drive.google.com/file/d/1i7iMLUfPO0ebIZp3JJUZaGv89QDcgago/view?usp=drive_link' target="blank">
 							<Button icon={downloadIcon}>Download CV</Button>
 						</a>
 					</motion.div>
