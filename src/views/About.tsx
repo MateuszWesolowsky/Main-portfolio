@@ -36,14 +36,7 @@ const About = () => {
 
 					<Reveal>
 						<p className='text-center xl:text-start text-base sm:text-lg text-textSecondary'>
-							I am a quality engineer who has discovered a passion for
-							programming. For the last year I have devoted time to learning,
-							and I immediately try to translate the acquired knowledge into
-							practice by creating projects, which allows me to perfect my
-							acquired skills. As a Quality Engineer, I learned teamwork,
-							problem solving, independence and contact with a foreign client. I
-							am looking for a job as a Frontend Developer to deepen my
-							knowledge in this area together with other developers.
+						My first steps in programming started with a passion for creating intuitive user interfaces, and working as a Junior Frontend Developer, I was able to take that passion to the next level. I use the knowledge and experience gained to provide solutions that not only delight users with their aesthetics, but also provide them with a unique, smooth interaction with the application.
 						</p>
 					</Reveal>
 
