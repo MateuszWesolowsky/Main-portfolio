@@ -60,7 +60,7 @@ const Hero = () => {
 						<Link to='contact' smooth>
 							<Button secondary>Hire me</Button>
 						</Link>
-						<a href='https://drive.google.com/file/d/1oIypV1FXrkdeb6_TECe4DqNKqsyBqLuW/view?usp=sharing' target="blank">
+						<a href='https://drive.google.com/file/d/1ikjdfMTGora63nabgMrDZ1eOw6rN45Ko/view?usp=sharing' target="blank">
 							<Button icon={downloadIcon}>Download CV</Button>
 						</a>
 					</motion.div>
