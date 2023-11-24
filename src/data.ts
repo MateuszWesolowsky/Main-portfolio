@@ -1,5 +1,6 @@
 import mainOne from "./assets/main-project-1.jpg";
 import mainTwo from "./assets/main-project-2.jpg";
+import mainThree from "./assets/main-project-3.jpg";
 import secondaryOne from "./assets/secondary-project-1.jpg";
 import secondaryTwo from "./assets/secondary-project-2.jpg";
 
@@ -16,18 +17,18 @@ export const projects: Project[] = [
 	{
 		id: 0,
 		category: "main",
-		img: mainOne,
-		title: "League champions app",
-		code: "https://github.com/MateuszWesolowsky/LeagueOfLegendsCards-App",
-		demo: "https://league-champions-app.netlify.app/",
+		img: mainThree,
+		title: "Travel World App",
+		code: "https://github.com/MateuszWesolowsky/travel-world",
+		demo: "https://travel-world-z9io.onrender.com/",
 	},
 	{
 		id: 1,
 		category: "main",
-		img: mainTwo,
-		title: "Movie App",
-		code: "https://github.com/MateuszWesolowsky/Movie-App",
-		demo: "https://movie-popcorn-app.netlify.app/",
+		img: mainOne,
+		title: "League champions app",
+		code: "https://github.com/MateuszWesolowsky/LeagueOfLegendsCards-App",
+		demo: "https://league-champions-app.netlify.app/",
 	},
 	{
 		id: 2,
@@ -44,5 +45,13 @@ export const projects: Project[] = [
 		title: "Travel List App",
 		code: "https://github.com/MateuszWesolowsky/travel-list",
 		demo: "https://travellist-app.netlify.app/",
+	},
+	{
+		id: 4,
+		category: "main",
+		img: mainTwo,
+		title: "Movie App",
+		code: "https://github.com/MateuszWesolowsky/Movie-App",
+		demo: "https://movie-popcorn-app.netlify.app/",
 	},
 ];
